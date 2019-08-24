@@ -1,5 +1,6 @@
 # Popular Movies
 This is an  Android application developed  in Java, which consumes TheMovieDB RESTful API. We will provide users with he possibility of filtering movies by popularity, as-well as based on user ratings.
+<img src="images/pop1.png" width=200 height =300> <img src="images/pop2.png" width=200 height =300>
 # Libraries
 
 To save time and achieve the best possible performances, we will make use of several third-party libraries.
@@ -35,3 +36,4 @@ annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 To access TheMovieDB API, you must create an account to retrieve an API key, which will be used to authenticate every request. The key is free is for personal use.
 
 Once you have created an account, you must navigate to Settings -> API, where you will find an API Key (v3 auth)
+<img src="images/pop3.png" width=200 height =300>
