@@ -1,6 +1,6 @@
 # Popular Movies
 This is an  Android application developed  in Java, which consumes TheMovieDB RESTful API. We will provide users with he possibility of filtering movies by popularity, as-well as based on user ratings.
-<img src="images/pop1.png" width=200 height =300> <img src="images/pop2.png" width=200 height =300>
+<img src="images/pop1.png" width=300 height =200> <img src="images/pop2.png" width=300 height =200>
 # Libraries
 
 To save time and achieve the best possible performances, we will make use of several third-party libraries.
